@@ -1,0 +1,37 @@
+.section2_2 {
+  padding-top: 50px;
+  width: 100%;
+  background-color: #fff;
+}
+.section2_2_div {
+  display: flex;
+  align-items: center;
+}
+.section2_2_div h2 {
+  margin-left: 20px;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21.94px;
+  letter-spacing: -0.30000001192092896px;
+  text-align: left;
+  color: #56ccf2;
+}
+.section2_2_figure {
+  margin-bottom: 80px;
+}
+.section2_2_ul {
+  margin-top: 10px;
+  width: 495px;
+}
+.section2_2_ul li {
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17.07px;
+  letter-spacing: -0.30000001192092896px;
+  text-align: left;
+  list-style: none;
+  margin-bottom: 5px;
+  color: #4F4F4F;
+}
